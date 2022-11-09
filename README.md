@@ -17,4 +17,4 @@ The first chapter covers the coding examples from the first two weeks, on basic 
 ## Chapter 2: Evolutionary Search (Part 1)
 
 This chapter covers basic evolutionary strategies and genetic algorithms.
-[Markdown Export](rendered/Evolutionary Search%20-%20Part%201.md)
+[Markdown Export](rendered/Evolutionary%20Search%20-%20Part%201.md)
