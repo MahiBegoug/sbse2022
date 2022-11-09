@@ -12,3 +12,9 @@ If you need help with setting up Jupyter, here's a tutorial on [how to install j
 
 The first chapter covers the coding examples from the first two weeks, on basic random search and local search algorithms.
 [Markdown Export](rendered/Random%20and%20Local%20Search.md)
+
+
+## Chapter 2: Evolutionary Search (Part 1)
+
+This chapter covers basic evolutionary strategies and genetic algorithms.
+[Markdown Export](rendered/Evolutionary Search%20-%20Part%201.md)
