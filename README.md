@@ -18,3 +18,10 @@ The first chapter covers the coding examples from the first two weeks, on basic 
 
 This chapter covers basic evolutionary strategies and genetic algorithms.
 [Markdown Export](rendered/Evolutionary%20Search%20-%20Part%201.md)
+
+
+## Chapter 3: Multi-Objective Optimisation (Part 1)
+
+This chapter covers the basics of Pareto optimality, NSGA-II, and comparison
+of multi-objective search algorithms.
+[Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%201.md)
