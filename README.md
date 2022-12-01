@@ -25,3 +25,10 @@ This chapter covers basic evolutionary strategies and genetic algorithms.
 This chapter covers the basics of Pareto optimality, NSGA-II, and comparison
 of multi-objective search algorithms.
 [Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%201.md)
+
+## Chapter 4: Evolutionary Search (Part 2)
+
+This chapter looks into the various search operators of a genetic algorithm:
+Survivor selection, parent selection, crossover, mutation, and the
+population itself.
+[Markdown Export](rendered/Evolutionary%20Search%20-%20Part%202.md)
