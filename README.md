@@ -32,3 +32,9 @@ This chapter looks into the various search operators of a genetic algorithm:
 Survivor selection, parent selection, crossover, mutation, and the
 population itself.
 [Markdown Export](rendered/Evolutionary%20Search%20-%20Part%202.md)
+
+## Chapter 5: Multi-Objective Optimisation (Part 2)
+
+This chapter covers several alternative multi-objective search algorithms:
+A random baseline, PAES, SPEA2, TwoArchives, and SMS-EMOA.
+[Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%202.md)
